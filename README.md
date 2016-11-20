@@ -1,5 +1,5 @@
 # izochi
 To begin,
 
- - Go to Izochi directory.
+ - Go into Izochi directory.
  - Run the command on the terminal: react-native run-ios
